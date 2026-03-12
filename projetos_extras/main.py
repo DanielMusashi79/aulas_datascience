@@ -1,3 +1,4 @@
+# Correcao de codificacao
 print('Iniciando projetos pós-curso')
 import pandas as pd
 import matplotlib.pylab as plt
